@@ -54,17 +54,15 @@ tools/
 
 <h2 align="center">⚡ SYSTEM STATUS ⚡</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msayyed72&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=msayyed72&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msayyed72&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff)](https://github.com/msayyed72)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msayyed72&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=ffffff" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=msayyed72&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c)](https://github.com/msayyed72)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msayyed72&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=ffffff)](https://github.com/msayyed72)
+
+</div>
 
 ---
 
